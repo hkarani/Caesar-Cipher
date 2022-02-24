@@ -1,2 +1,2 @@
 # Caesar-Cipher
-A Caesar Cipher Implementation in Java
+A Caesar Cipher Encryption and Decryption Implementated in Java
